@@ -4,8 +4,8 @@
             <h1>
                 <a href="https://github.com/nlpguy2022">
                     <picture>
-                        <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Helvetica+Neue&pause=500&color=FFFFFF&center=true&vCenter=true&width=435&lines=nlpguy2022;HAZIM%20SHAHRIDAN;">
-                        <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Helvetica+Neue&pause=500&color=000000&center=true&vCenter=true&width=435&lines=nlpguy2022;HAZIM%20SHAHRIDAN;">
+                        <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Helvetica+Neue&pause=500&color=FFFFFF&center=true&vCenter=true&width=435&lines=HANDSOME;INTELLIGENT;TALENTED;NLPGUY2022;HAZIM%20SHAHRIDAN;">
+                        <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Helvetica+Neue&pause=500&color=000000&center=true&vCenter=true&width=435&lines=HANDSOME;INTELLIGENT;TALENTED;NLPGUY2022;HAZIM%20SHAHRIDAN;">
                         <img alt="Greeting" src="https://readme-typing-svg.demolab.com?color=F700FF&center=true&lines=Hello!">
                     </picture>
                 </a>
