@@ -22,6 +22,10 @@
 
 **[SOFRITTOLABSSS](https://sofrittolabsss.com)**. Former Senior Engineer at **EY AI Innovation Labs**. E2E App & AI Development. I'm aight at coding I guess, trying to be better 😆 Kuala Lumpur based (for now).
 
+### SIDE HUSTLES
+
+**[moscustomtees](https://moscustomtees.sofrittolabsss.com)**: I design and print custom tees, which I sell on limited time offers through this site when its up (as Im self hosting this on a Raspberry Pi 😆). Order fulfilment only for Klang Valley in Malaysia though FYI 🚨
+
 ### TECH STACK
 
 **Web Dev - Frontend & Backend**
