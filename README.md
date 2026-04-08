@@ -20,7 +20,7 @@
 
 ### ABOUT
 
-**[SOFRITTOLABSSS](https://sofrittolabsss.com)**. Former Senior Engineer at **EY AI Innovation Labs**. E2E App & AI Development. I strive for technical excellence, privacy, security and open-source. Kuala Lumpur.
+**[SOFRITTOLABSSS](https://sofrittolabsss.com)**. Former Senior Engineer at **EY AI Innovation Labs**. E2E App & AI Development. I'm aight at coding I guess, trying to be better 😆 Kuala Lumpur based (for now).
 
 ### TECH STACK
 
