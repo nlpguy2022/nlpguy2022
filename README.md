@@ -11,7 +11,7 @@
                 </a>
             </h1>
             <img src="banner.jpeg"/>
-            <br>
+            <br><br>
             <p><b>KUALA LUMPUR, MALAYSIA</b></p>
         </div>
     </section>
