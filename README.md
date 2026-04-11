@@ -25,7 +25,7 @@
 My interests are in:
 1. DevSecOps: automating the deployment of my apps in a secure manner, with proper auditing and monitoring tools in place for visibility and governance purposes.
 2. AI Governance: I've had hands on experience working on Malaysian national transformation initiatives. I'm taking a step back from this to focus on how we should define and manage the standards and regulations that should be put in place to ensure reliable, responsible and safe deployment of AI for public use.
-3. Food 🥘: Big foodie, hence why I started SOFRITTOLABSS 😆 The fuel that helps me think and code (as long as it tastes good 😋
+3. Food 🥘: Big foodie, hence why I started SOFRITTOLABSS 😆 The fuel that helps me think and code (as long as it tastes good 😋)
    
 ### SIDE HUSTLES
 
