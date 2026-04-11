@@ -20,8 +20,13 @@
 
 ### ABOUT
 
-**[SOFRITTOLABSSS](https://sofrittolabsss.com)**. Former Senior Engineer at **EY AI Innovation Labs**. E2E App & AI Development. I'm aight at coding I guess, trying to be better 😆 Kuala Lumpur based (for now).
+**[SOFRITTOLABSSS](https://sofrittolabsss.com)**. Former Senior Engineer at **EY AI Innovation Labs**. E2E App & AI Development. Decent coder I guess, constantly polishing my craft 😆 Kuala Lumpur based (for now).
 
+My interests are in:
+1. DevSecOps: automating the deployment of my apps in a secure manner, with proper auditing and monitoring tools in place for visibility and governance purposes.
+2. AI Governance: I've had hands on experience working on Malaysian national transformation initiatives. I'm taking a step back from this to focus on how we should define and manage the standards and regulations that should be put in place to ensure reliable, responsible and safe deployment of AI for public use.
+3. Food 🥘: Big foodie, hence why I started SOFRITTOLABSS 😆 The fuel that helps me think and code (as long as it tastes good 😋
+   
 ### SIDE HUSTLES
 
 **[moscustomtees](https://moscustomtees.sofrittolabsss.com)**: I design and print custom tees, which I sell on limited time offers through this site when its up (as Im self hosting this on a Raspberry Pi 😆). Order fulfilment only for Klang Valley in Malaysia though FYI 🚨
