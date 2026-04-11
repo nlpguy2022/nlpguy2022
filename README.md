@@ -11,6 +11,7 @@
                 </a>
             </h1>
             <img src="banner.jpeg"/>
+            <br>
             <p><b>KUALA LUMPUR, MALAYSIA</b></p>
         </div>
     </section>
@@ -20,8 +21,7 @@
 
 ### ABOUT
 
-**[SOFRITTOLABSSS](https://sofrittolabsss.com)**. Former Senior Engineer at **EY AI Innovation Labs**. E2E App & AI Development. Decent coder I guess, constantly polishing my craft 😆 Kuala Lumpur based (for now).
-
+**[SOFRITTOLABSSS](https://sofrittolabsss.com)**. Former Senior Engineer at **EY AI Innovation Labs**. E2E App & AI Development. Decent coder I guess, constantly polishing my craft 😆
 My interests are in:
 1. DevSecOps: automating the deployment of my apps in a secure manner, with proper auditing and monitoring tools in place for visibility and governance purposes.
 2. AI Governance: I've had hands on experience working on Malaysian national transformation initiatives. I'm taking a step back from this to focus on how we should define and manage the standards and regulations that should be put in place to ensure reliable, responsible and safe deployment of AI for public use.
